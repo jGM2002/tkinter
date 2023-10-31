@@ -1,4 +1,6 @@
 # Ejercicio 32
+# Este programa te creara la base de datos con su tabla si esta no existe.
+# Ademas de que te podra mostrar los datos de esta misma.
 import sqlite3
 import tkinter as tk
 from tkinter import messagebox
